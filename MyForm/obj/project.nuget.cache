@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "G1MeV5I5vzpjqzGcKmTYdlGZhAkXiqIj7J8GmUb5vpbaiKbrqjLsitA2Hq0d7yoNcInEQPviuBMAbK9i4cflAA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\janak.raj\\Desktop\\form\\MyForm\\MyForm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\janak.raj\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
